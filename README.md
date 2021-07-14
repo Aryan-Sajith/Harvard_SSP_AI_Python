@@ -2,7 +2,7 @@
 This repository will contain the code from the [Harvard SSP Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/summer/ai/2021/#optimization) course.
 
 ## Projects
-  - Search:
+  - [Search](https://github.com/Aryan-Sajith/Harvard_SSP_AI_Python/tree/main/Search):
     - Degrees: A project regarding the "Degrees of Separation" that helps connect any two actors according to IMDB data.
     - TicTacToe: A project that graphically emulates and builds an AI that makes optimal moves to against human users.
   - Knowledge:
