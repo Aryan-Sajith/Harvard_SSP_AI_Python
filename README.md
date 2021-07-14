@@ -11,4 +11,4 @@ This repository will contain the code from the [Harvard Summer School Program In
   - [Uncertainty](https://github.com/Aryan-Sajith/Harvard_SSP_AI_Python/tree/main/Uncertainty/pagerank)(Only one project for this  topic):
     - [Pagerank](https://github.com/Aryan-Sajith/Harvard_SSP_AI_Python/tree/main/Uncertainty/pagerank): A project that works to rank web page documents(HTML files) based on connectivity and relevance within a corpus of webpage connectivity.
   - Optimization(Only one project for this topic):
-    - Coming soon.
+    - Crosswords
