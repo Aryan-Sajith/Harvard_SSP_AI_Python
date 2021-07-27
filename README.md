@@ -12,3 +12,5 @@ This repository will contain the code from the [Harvard Summer School Program In
     - [Pagerank](https://github.com/Aryan-Sajith/Harvard_SSP_AI_Python/tree/main/Uncertainty/pagerank): A project that works to rank web page documents(HTML files) based on connectivity and relevance within a corpus of webpage connectivity.
   - [Optimization](https://github.com/Aryan-Sajith/Harvard_SSP_AI_Python/tree/main/Optimization/crossword)(Only one project for this topic):
     - [Crosswords](https://github.com/Aryan-Sajith/Harvard_SSP_AI_Python/tree/main/Optimization/crossword): A project that builds crossword puzzles and utilizes optimization heuristics and algorithms to pick words from a vocabulary list to fill out certain crossword puzzles.
+  - [Learning]
+    - [Shopping]:
