@@ -11,8 +11,7 @@ when the dataset is already substantially smaller than the one that Brian tested
 dropout rate, I added a few extra layers to the actual DNN. First it had 256 units, then another layer with 192 units, and lastly 128 units. Firstly, I realized that having a layer
 with double my base rate was good so I ended up using 256 units off of a base 128. Then I tested adding a layer inbetween with an average of the 1st/3rd layers. Although this
 addition made the process produce slightly less accurate results, the overfitting seems to be a lot less than before since the performance on testing(non-epoch) set of data was 
-within 1-1.5% of the actual data sets being tested on. I came to overall conclusion that this data structure was the most efficient that I could find with research online of 
-popular values, ranges, etc.
+within 1-1.5% of the actual data sets being tested on. I came to overall conclusion that this design for the AI model was the most efficient that I could find with research online of popular activation functions, alpha values, kernel sizes, etc.
 
 Convolutional Neural Network Structure(Utilizing Leaky-ReLU Activation Function[ Alpha: 0.001]):
 
